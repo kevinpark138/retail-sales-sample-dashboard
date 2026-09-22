@@ -1,5 +1,5 @@
 **Retail Sales Sample Dashboard**
-
+![Dashboard screenshot](image.png)
 
 
 I built this Power BI dashboard using a 13,000-row retail sales sample. I removed cancellations and rows with nonpositive quantity or unit price, leaving 12,734 rows for analysis.
